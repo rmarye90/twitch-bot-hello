@@ -9,7 +9,7 @@
     "build": "tsc",
     "start": "node src/index.ts"
   },
-  "engines": { "node": "24.x" },
+  "engines": { "node": "24.11" },
   "keywords": [],
   "author": "",
   "license": "ISC",
